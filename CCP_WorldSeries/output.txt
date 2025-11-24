@@ -1,0 +1,45 @@
+Python 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/cindy/Downloads/WorldSeriesProgramChamps.py
+This program displays the MLB World Series Champions.
+
+Enter a year in the range from 1903 to 2025
+ to see which team won that year: 1904
+
+The World Series was not played in 1904.
+
+	Do you want to continue? (y/n): y
+
+Enter a year in the range from 1903 to 2025
+ to see which team won that year: 2026
+
+That year is not included in the data.
+
+	Do you want to continue? (y/n): y
+
+Enter a year in the range from 1903 to 2025
+ to see which team won that year: 2025
+
+Los Angeles Dodgers won that year.
+
+They have won  8 times. Here is a list of the years: 
+1959  
+1963  
+1965  
+1981  
+1988  
+2020  
+2024  
+2025  
+
+	Do you want to continue? (y/n): y
+
+Enter a year in the range from 1903 to 2025
+ to see which team won that year: 2023
+
+Texas Rangers won that year.
+
+They have won  1 time. Their only win was in 2023  
+
+	Do you want to continue? (y/n): n
